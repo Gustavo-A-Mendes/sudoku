@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.table {
+  table-layout: fixed;
+}
+
+.tr {
+  display: flex;
+}
+
+.td {
+  height: 50px;
+  width: 50px;
+  border: solid 2px black;
+}
